@@ -1,0 +1,15 @@
+https://docs.docker.com/desktop/windows/wsl/
+https://learn.microsoft.com/pt-br/windows/wsl/troubleshooting#uninstall-legacy-version-of-wsl
+
+devemos preparar o windows para instalar o docker
+onde utilizando o wsl2 é preciso ter a virtualização habilitado.(hyper-V)
+
+para habilitar o virtualização temos que acessar o adicionar desativar recurso do windows
+e instalar a versao 2 do wsl.
+para isso abriremos o cmd e digitamos wsl --install
+
+para vermos a versao das distribuições linux disponivel na maquina: wsl --list --online
+
+verificar a versao do wsl instalado: wsl -l -v
+
+para definir a wsl2 como padarao:wsl --set-default-version 2
