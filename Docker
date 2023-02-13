@@ -16,3 +16,15 @@ para alterar a distribuição linux instalada: wsl --install -d Ubuntu-22.04
 para definir a wsl2 como padarao:wsl --set-default-version 2
 
 para alterar as versoes de linux e wsl: wsl --set-version Ubuntu-22.04 2
+
+para executar o terminual do ubuntu no windows(essa é a intenção do wsl): wsl.exe
+
+apos configurar esse ambiente instalei o docker
+
+(Durante a instalação, defina o tipo de contêiner padrão como contêineres do Windows. 
+A fim de alternar para eles após a conclusão da instalação, use o item
+do Docker na bandeja do sistema do Windows (como mostrado abaixo) ou o seguinte comando em um prompt do PowerShell:)
+apos essa referencia acima meio que tudo se encaixou.
+
+
+
