@@ -27,5 +27,8 @@ do Docker na bandeja do sistema do Windows (como mostrado abaixo) ou o seguinte 
 apos essa referencia acima meio que tudo se encaixou.
 definir wsl2 como padrao: wsl.exe --set-default-version 2 
 
+de toda forma tive problema para rodar o docker pelo terminal. em fazer o pull e o run.
+ocorreu erro:docker config ls = Error response from daemon: open \\.\pipe\docker_engine_windows: O sistema não pode encontrar o arquivo especificado.
 
+a recomendação do forum foi instalar uma versao anterior do docker pos a atual esta com o bug
 
