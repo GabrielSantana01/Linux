@@ -25,6 +25,7 @@ apos configurar esse ambiente instalei o docker
 A fim de alternar para eles após a conclusão da instalação, use o item
 do Docker na bandeja do sistema do Windows (como mostrado abaixo) ou o seguinte comando em um prompt do PowerShell:)
 apos essa referencia acima meio que tudo se encaixou.
+definir wsl2 como padrao: wsl.exe --set-default-version 2 
 
 
 
