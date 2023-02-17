@@ -7,7 +7,7 @@ onde utilizando o wsl2 é preciso ter a virtualização habilitado.(hyper-V)
 
 para habilitar o virtualização temos que acessar o adicionar desativar recurso do windows
 e instalar a versao 2 do wsl.
-para isso abriremos o cmd e digitamos wsl --install
+para isso abriremos o cmd e digitamos wsl --install ... eu so conseguir instalar com o seguinte comando:wsl.exe --install
 
 para vermos a versao das distribuições linux disponivel na maquina: wsl --list --online
 
