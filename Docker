@@ -1,6 +1,6 @@
 https://docs.docker.com/desktop/windows/wsl/
 https://learn.microsoft.com/pt-br/windows/wsl/troubleshooting#uninstall-legacy-version-of-wsl
-
+execute wsl --unregister <distroName>
 devemos preparar o windows para instalar o docker
 onde utilizando o wsl2 é preciso ter a virtualização habilitado.(hyper-V)
 
