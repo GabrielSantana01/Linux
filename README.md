@@ -36,7 +36,9 @@ para carregar uma nova versao do terminal: source ~/.zshrc
 ----------------------------------------------------------------------
 instalar o venv: sudo apt install python3-venv
 criar ambiente virtual: python3 -m venv ambienteVirtual
-
+----------------------------------------------------------------------
+para instalar o pandas no unbuntu:
+sudo apt install python3-pandas
 
 
 
