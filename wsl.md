@@ -18,5 +18,21 @@ wsl --export <Distro> <FileName> ex: wsl --export Ubuntu ambiente1
  para importar o arquivo usamos o:
  wsl --import <Distro> <InstallLocation> <FileName>
 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+seguir o tuturial para mais configurações
+https://learn.microsoft.com/pt-br/windows/wsl/enterprise
+para configurar frufrus do ambiente:
+https://learn.microsoft.com/pt-br/windows/wsl/setup/environment#set-up-your-linux-username-and-password
