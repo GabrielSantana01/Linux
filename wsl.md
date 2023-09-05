@@ -13,7 +13,7 @@ apos instalar uma distribuição atualize-a:
 sudo apt update && sudo apt upgrade
 
 configurando o seu ambiente wsl pode-se exportado, atraves de uma compactação da partição em formato tar 
- wsl --export <Distro> <FileName> ex: wsl --export Ubuntu ambiente1
+wsl --export <Distro> <FileName> ex: wsl --export Ubuntu ambiente1
 
  para importar o arquivo usamos o:
  wsl --import <Distro> <InstallLocation> <FileName>
