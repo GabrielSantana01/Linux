@@ -26,6 +26,10 @@ wsl --export <Distro> <FileName> ex: wsl --export Ubuntu ambiente1
 ----------------------------------------------------------------------------------------------------------------
 para deletar uma distribuição wsl usamos o comando:
 wsl --unregister Ubuntu
+------------------------------------------------------------------------------------------
+Comandos:
+rm -r nome_da_pasta #para remover uma pasta :
+
 
 
 
