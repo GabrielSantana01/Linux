@@ -12,6 +12,12 @@ wsl -s <DistributionName> ou wsl --setdefault <DistributionName>
 apos instalar uma distribuição atualize-a:
 sudo apt update && sudo apt upgrade
 
+e com isso instalo o pip para posteriormente instalar as bibliotecas python:
+sudo apt install python3-pip
+
+com o pip istalado tenho que instalar a biblioteca do 
+
+
 configurando o seu ambiente wsl pode-se exportado, atraves de uma compactação da partição em formato tar 
 wsl --export <Distro> <FileName> ex: wsl --export Ubuntu ambiente1
 
