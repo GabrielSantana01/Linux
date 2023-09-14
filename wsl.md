@@ -17,7 +17,9 @@ wsl --export <Distro> <FileName> ex: wsl --export Ubuntu ambiente1
 
  para importar o arquivo usamos o:
  wsl --import <Distro> <InstallLocation> <FileName>
-
+----------------------------------------------------------------------------------------------------------------
+para deletar uma distribuição wsl usamos o comando:
+wsl --unregister Ubuntu
 
 
 
